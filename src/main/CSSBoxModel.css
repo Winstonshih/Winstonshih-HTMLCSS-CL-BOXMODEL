@@ -53,5 +53,5 @@ as a demonstration and complete the styling for the .pizza class and individual 
     /* TODO: You burnt the Veggie Pizza! Make the border black solid 10px - this represents the crust. */
     color: darkgreen;
     background-color: lightgreen;
-    border: border black solid 10px;
+    border: black solid 10px;
 }
